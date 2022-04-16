@@ -24,6 +24,7 @@
     "paths": {
       "@material/*": ["./app/material/*"],
       "@public/*": ["./app/public/*"],
+      "@auth/*": ["./app/auth/*"],
       "@shared/*": ["./app/shared/*"],
       "@assets/*": ["./assets/*"],
       "@environments/*": ["./environments/*"]
